@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Jorge Esteban Rojas Toro<br><br>I'm a Geospatial Data Engineer with over 5 years of experience in spatial analysis, environmental data modeling, and sustainable project development. I specialize in building scalable spatial data pipelines, integrating satellite and remote sensing data, and deploying solutions using Docker and AWS.<br><br>I hold a Master’s in Geomatics and have worked across LATAM and with U.S.-based teams. My work blends Python, PostGIS, and machine learning to solve complex spatial problems with clarity and precision.
+👋 Hi, I'm Jorge Esteban Rojas Toro<br><br>I'm a Geospatial Data Engineer with over 5 years of experience in spatial analysis, environmental data modeling, and sustainable project development. I specialize in building scalable spatial data pipelines, integrating satellite and remote sensing data, and deploying solutions using technologies like Docker.<br><br>I hold a Master’s in Geomatics and have worked across LATAM and with U.S.-based teams. My work blends Python, PostGIS, and machine learning to solve complex spatial problems with clarity and precision.
 
 
 ## 🌐 Socials:
@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jerojast&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
